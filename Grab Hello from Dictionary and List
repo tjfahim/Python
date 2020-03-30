@@ -1,0 +1,2 @@
+d3 = {'k1':[{'nest key':['this is deep',['hello']]}]}
+print(d3['k1'][0]['nest key'][1][0])
