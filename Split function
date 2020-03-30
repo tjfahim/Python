@@ -1,0 +1,3 @@
+s='Hello Fahim boss'
+
+print(s.split('o')[1])
