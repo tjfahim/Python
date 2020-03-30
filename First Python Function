@@ -1,0 +1,3 @@
+def test(arg="function"):
+    print("My first python {arg}!".format(arg="FUNCTION"))
+test()
