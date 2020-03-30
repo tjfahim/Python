@@ -1,0 +1,7 @@
+x=[1,2,3,4,5]
+out=[all*all for all in x ]
+print(out)
+#out=[]
+#for all in x:
+#    out.append(*"hello Boss")
+#print(out)
